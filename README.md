@@ -38,10 +38,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
 <img src="https://imgur.com/MAhXK2e.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-<p>
-<img src="https://imgur.com/Zf2jw07.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
-</p>
+
+![image](https://github.com/user-attachments/assets/1f78ece8-82dc-41f4-afa5-7725955830f0)
+
+
 <p>
   
 3.) Go to your control panel and open up programs. Select, Turn Windows features on and off.
